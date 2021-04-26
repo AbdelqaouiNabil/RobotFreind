@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RobotFreind/static/css/main.08b56769.chunk.css",
+    "main.js": "/RobotFreind/static/js/main.7057792b.chunk.js",
+    "main.js.map": "/RobotFreind/static/js/main.7057792b.chunk.js.map",
+    "runtime-main.js": "/RobotFreind/static/js/runtime-main.0479a80a.js",
+    "runtime-main.js.map": "/RobotFreind/static/js/runtime-main.0479a80a.js.map",
+    "static/css/2.fe359a49.chunk.css": "/RobotFreind/static/css/2.fe359a49.chunk.css",
+    "static/js/2.b324aacf.chunk.js": "/RobotFreind/static/js/2.b324aacf.chunk.js",
+    "static/js/2.b324aacf.chunk.js.map": "/RobotFreind/static/js/2.b324aacf.chunk.js.map",
+    "static/js/3.e14cf4cf.chunk.js": "/RobotFreind/static/js/3.e14cf4cf.chunk.js",
+    "static/js/3.e14cf4cf.chunk.js.map": "/RobotFreind/static/js/3.e14cf4cf.chunk.js.map",
+    "index.html": "/RobotFreind/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/RobotFreind/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.08b56769.chunk.css.map": "/RobotFreind/static/css/main.08b56769.chunk.css.map",
+    "static/js/2.b324aacf.chunk.js.LICENSE.txt": "/RobotFreind/static/js/2.b324aacf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0479a80a.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.b324aacf.chunk.js",
+    "static/css/main.08b56769.chunk.css",
+    "static/js/main.7057792b.chunk.js"
+  ]
+}
